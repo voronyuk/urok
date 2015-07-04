@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
         <head>
-                <title>3 урок</title>
+                <title>3 урок-changed-changed 2</title>
         </head>
 	<body>
 <h3 style="color:#ff9966">1 завдання</h3>
